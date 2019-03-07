@@ -2,68 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff3a7a52-62aa-4026-9ab8-b3e0de1e0c77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/bll/img_processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/bll/img_processor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/dal/image_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/dal/image_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/utils/image_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/utils/image_viewer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/utils/system_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/common/parameters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8234/100" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8234/100" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8234/40" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8234/40" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8234/50" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8234/50" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8234/60" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8234/60" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8234/70" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8234/70" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8234/80" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8234/80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8234/90" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8234/90" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8234/conv" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8234/conv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8988/100" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8988/100" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8988/40" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8988/40" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8988/50" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8988/50" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8988/60" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8988/60" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8988/70" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8988/70" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8988/80" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8988/80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8988/90" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8988/90" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/healthy/8988/conv" beforeDir="false" afterPath="$PROJECT_DIR$/input/healthy/8988/conv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/0006/100" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/0006/100" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/0006/40" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/0006/40" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/0006/50" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/0006/50" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/0006/60" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/0006/60" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/0006/70" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/0006/70" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/0006/80" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/0006/80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/0006/90" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/0006/90" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/0006/conv" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/0006/conv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/cortex/100" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/cortex/40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/cortex/50" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/cortex/60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/cortex/70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/cortex/80" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/cortex/90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/cortex/conv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/thalamus/100" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/thalamus/40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/thalamus/50" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/thalamus/60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/thalamus/70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/thalamus/80" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/thalamus/90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/thalamus/conv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/two_days_post_stroke/100" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/two_days_post_stroke/40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/two_days_post_stroke/50" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/two_days_post_stroke/60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/two_days_post_stroke/70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/two_days_post_stroke/80" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/two_days_post_stroke/90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1538/two_days_post_stroke/conv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1841/100" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/1841/100" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1841/40" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/1841/40" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1841/50" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/1841/50" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1841/60" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/1841/60" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1841/70" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/1841/70" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1841/80" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/1841/80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1841/90" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/1841/90" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/stroke/1841/conv" beforeDir="false" afterPath="$PROJECT_DIR$/input/stroke/1841/conv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testconv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,14 +104,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="3" />
-          <entry key="json" value="3" />
+          <entry key="json" value="4" />
           <entry key="py" value="13" />
           <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="3" />
+          <entry key="JSON" value="4" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="13" />
           <entry key="YAML" value="3" />
@@ -181,7 +122,7 @@
           <entry key="dummy" value="10" />
           <entry key="gitignore" value="8" />
           <entry key="json" value="7" />
-          <entry key="py" value="2726" />
+          <entry key="py" value="2727" />
           <entry key="yml" value="74" />
         </counts>
       </usages-collector>
@@ -189,7 +130,7 @@
         <counts>
           <entry key="JSON" value="7" />
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="2726" />
+          <entry key="Python" value="2727" />
           <entry key="YAML" value="74" />
         </counts>
       </usages-collector>
@@ -200,8 +141,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -301,6 +242,7 @@
       <find>jost</find>
       <find>cm</find>
       <find>soft</find>
+      <find>json</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -459,13 +401,13 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7777778" visible="true" weight="0.2825911" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7777778" visible="true" weight="0.2825911" />
       <window_info id="Structure" order="1" sideWeight="0.22222222" side_tool="true" weight="0.2825911" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3268206" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49959514" visible="true" weight="0.23978686" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49959514" visible="true" weight="0.23978686" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -493,7 +435,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/app.py</url>
-          <line>19</line>
+          <line>18</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
@@ -642,13 +584,6 @@ top_bound = (a &lt; 27).reshape(5,5)</expression-string>
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../../work_git/newcrest_ac/core/utils/plot.py" />
-    <entry file="file://$PROJECT_DIR$/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/brain_image_classifier/Lib/pathlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -718,10 +653,17 @@ top_bound = (a &lt; 27).reshape(5,5)</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

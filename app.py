@@ -5,7 +5,6 @@ from core.bll.img_processor import ImgProcessor
 from core.utils.image_viewer import display_image
 from core.common.parameters import Subjects
 
-# TODO complete imageviewer function
 all_patients = Subjects.get_all_subjects()
 p = all_patients[0]
 im_reader = ImageReader(p)
