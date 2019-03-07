@@ -1,0 +1,10 @@
+name: brain_image_classifier
+
+dependencies:
+  - python==3.6.5
+  - matplotlib==2.2.2
+  - seaborn==0.8.1
+  - scikit-image==0.14
+  - numpy==1.15
+  - pip:
+    - pydicom==1.2.0

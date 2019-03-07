@@ -1,0 +1,4 @@
+{
+  "path_to_healthy_images" : "input/healthy/",
+  "path_to_stroke_images" : "input/stroke/"
+}
